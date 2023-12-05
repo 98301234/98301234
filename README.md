@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @98301234
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on software coorporations.
-- 📫 contract me 
+- 👀 I do programming as my passion.
+- 🌱 I’m currently learning advanced C++.
+- 💞️ I’m looking to collaborate with software corporations.
+- 📫 contact me 
 email - mmunsi2700@gmail.com
 contract - 9123021804
 
